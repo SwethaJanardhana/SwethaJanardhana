@@ -17,7 +17,9 @@ I'm **Swetha Janardhana** worked as a Software developer !
 
 ## My Skill set includes :
 ---
-- Java
-- HTML
-- JS
-- Weblogic
+ ![Java](https://cdn-icons-png.flaticon.com/128/226/226777.png) 
+ ![HTML](https://cdn-icons-png.flaticon.com/128/5968/5968267.png)
+ ![CSS](https://cdn-icons-png.flaticon.com/128/5968/5968242.png)
+ ![JS](https://cdn-icons-png.flaticon.com/128/1199/1199124.png)
+ ![Weblogic](https://cdn-icons-png.flaticon.com/128/23/23330.png)
+ ![Git](https://cdn-icons-png.flaticon.com/128/2111/2111432.png)
