@@ -1,6 +1,7 @@
 # Welcome
 Hi, Nice yo see you !
 Myself Swetha, I am a Web Developer living in Braunschweig(Germany), worked as a Software Engineer and Techonology Analyst @ Infosys Technologies Limited, I participated in a web-dev course @ NeueFische GmbH and completed in June 2024.
+
 *Currently looking for a job*.
   
 > _The first step towards getting somewhere_
@@ -19,10 +20,10 @@ Myself Swetha, I am a Web Developer living in Braunschweig(Germany), worked as a
 
 
 ## My Skill set includes :
- [] Java 
- [] HTML
- [] CSS 
- [] JavaScript
- [] React
- [] Next.js
- [] Git
+ - Java
+ -  HTML
+ -  CSS
+ - JavaScript
+ - React
+ - Next.js
+ - Git
