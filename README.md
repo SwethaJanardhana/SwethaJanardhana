@@ -1,11 +1,14 @@
 # Welcome
----
-I'm **Swetha Janardhana** worked as a Software Engineer and Techonologt Analyst @ Infosys Technologies Limited, I participated in a web-dev course @ NeueFische GmbH and completed in June 2024.
+Hi, Nice yo see you !
+Myself Swetha, I am a Web Developer living in Braunschweig(Germany), worked as a Software Engineer and Techonologt Analyst @ Infosys Technologies Limited, I participated in a web-dev course @ NeueFische GmbH and completed in June 2024.
+Currently looking for a job.
   
-*The first step towards getting some is to decide that you are not going to stay where you are*🎉🎉
+> _The first step towards getting somewhere_
+> _is to decide that you are not going to stay where you are_🎉🎉
 
-## My Hobbies include :
----
+## About Me :
+- 🌍As a web developer, I am passionate about creating robust and user-friendly web applications. 🌍Proficient in front-end technologies like HTML, CSS, JavaScript, and frameworks such as React
+### Hobbies:
 - 🖌️ Painting
 - ✈️🚢🧳Travelling
 - 🧶Crocheting
@@ -13,8 +16,7 @@ I'm **Swetha Janardhana** worked as a Software Engineer and Techonologt Analyst 
 - 🖍️DIY crafts
 - 🏸Playing Badminton
   
-### Want to see one of my art work
-[Ganesha](ganesha.jpg)
+
 
 ## My Skill set includes :
 ---
