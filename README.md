@@ -1,9 +1,8 @@
-# This is my first GitHub profile
+# Welcome
 ---
-I'm **Swetha Janardhana** worked as a Software Engineer and Techonologt Analyst @ <Infosys Technologies Limited/>!
-- I participated in a web-dev course @ <NeueFische GmbH/> and completed in June 2024.
+I'm **Swetha Janardhana** worked as a Software Engineer and Techonologt Analyst @ Infosys Technologies Limited, I participated in a web-dev course @ NeueFische GmbH and completed in June 2024.
   
-* The first step towards getting some is to decide that you are not going to stay where you are*🎉🎉
+*The first step towards getting some is to decide that you are not going to stay where you are*🎉🎉
 
 ## My Hobbies include :
 ---
